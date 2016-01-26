@@ -1,0 +1,12 @@
+My personal nixos configuration file meant to be used as a backup
+system : Lenovo Lappy , thinkpad E-series
+
+config summary:
+===============
+bootloader : gummiboot, EFI
+timezone   : Berlin
+Enabled    : ssh, cups, avahi, wireless(networkmanager)
+desktop    : xterm + xmonad (see dotfiles for xmonad.hs)
+
+
+NOTE: haskell and cabal are still not properly configured. 
